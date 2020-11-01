@@ -1,0 +1,252 @@
+@charset "UTF-8";
+nav {
+  height: 67px;
+  background-color: #212121;
+}
+
+.menu {
+  padding: 13px 70px;
+  margin: 0;
+  list-style: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+
+.menu-link {
+  color: #ffffff;
+}
+
+.photo {
+  padding-bottom: 20px;
+}
+
+.foto {
+  background-size: auto;
+  background-position: center;
+}
+
+.mobile {
+  min-height: 864;
+  padding: 48px 0 79px 0;
+}
+
+.wer {
+  width: 126px;
+  height: 24px;
+  background-color: #000000;
+  margin: 73px auto;
+  margin-bottom: 0;
+}
+
+.promo2 {
+  padding-top: 30px;
+}
+
+.menu-link {
+  color: greenyellow;
+}
+
+#ddd {
+  /* Style for "8 причин н" */
+  height: 27px;
+  color: #222222;
+  font-family: Roboto;
+  font-size: 38px;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 48px;
+  text-align: center;
+  text-transform: uppercase;
+  /* Text style for "8 причин н" */
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+.xxx {
+  width: 340px;
+  color: white;
+  font-family: Roboto;
+  font-size: 15px;
+  padding-left: 10px;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 21px;
+  text-align: center;
+  /* Text style for "В, ысокий" */
+  color: #304549;
+  font-family: "Roboto - Regular";
+  font-size: 17px;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+  /* Text style for "Мы выплачи" */
+  font-family: "Roboto Light";
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+.fis {
+  color: white;
+}
+
+.tee {
+  text-align: center;
+  padding-top: 10px;
+}
+
+.promo2 {
+  background-color: wheat;
+  margin-top: -80px;
+}
+
+.photo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.promo {
+  color: red;
+  min-height: 800px;
+  padding: 150px 0 135px 0;
+  background: url(/p/img/Layer_1.png) center center/cover no-repeat;
+}
+
+.promobtn {
+  /* Style for "Rounded Re" */
+  margin: 80px auto;
+  display: block;
+  margin-bottom: 0;
+  width: 259px;
+  height: 63px;
+  -webkit-box-shadow: inset 0 -4px 0 rgba(0, 0, 0, 0.12);
+          box-shadow: inset 0 -4px 0 rgba(0, 0, 0, 0.12);
+  border: none solid rgba(0, 0, 0, 0.07);
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#1eacc7), to(#4ce2ff));
+  background-image: linear-gradient(to top, #1eacc7 0%, #4ce2ff 100%);
+}
+
+.tel {
+  /* Style for "заказать з" */
+  width: 132px;
+  height: 10px;
+  text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.21);
+  color: #ffffff;
+  font-family: serif;
+  font-size: 14px;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 68px;
+  text-align: center;
+  text-transform: uppercase;
+  /* Text style for "заказать з" */
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+.button {
+  /* Style for "Rounded Re" */
+  width: 172px;
+  border-radius: 4px;
+  height: 46px;
+  -webkit-box-shadow: inset 0 -3px 0 rgba(0, 0, 0, 0.12);
+          box-shadow: inset 0 -3px 0 rgba(0, 0, 0, 0.12);
+  border: none solid rgba(0, 0, 0, 0.07);
+  background-image: -webkit-gradient(linear, left bottom, left top, from(#1eacc7), to(#4ce2ff));
+  background-image: linear-gradient(to top, #1eacc7 0%, #4ce2ff 100%);
+  margin-top: 15px;
+}
+
+.subheadercall {
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 12px;
+  font-weight: 300;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 14px;
+  text-align: right;
+  /* Text style for "Звоните на" */
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+  margin-top: 15px;
+}
+
+.subheafon {
+  /* Style for "8 495 797" */
+  height: 16px;
+  color: #ffffff;
+  font-family: Roboto;
+  font-size: 22px;
+  padding-left: 30px;
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: 68px;
+  text-align: center;
+  text-transform: uppercase;
+  /* Text style for "8 495 797" */
+  font-style: normal;
+  letter-spacing: normal;
+  line-height: normal;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.fs {
+  margin-top: 15px;
+}
+
+.subheaderofficial {
+  margin-top: 6px;
+}
+
+.menu-item {
+  border-right: 4px dotted black;
+  padding-right: 28px;
+}
+
+.fisx {
+  text-transform: uppercase;
+}
+
+.subheader {
+  height: 84px;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+.subheader .fis {
+  text-transform: uppercase;
+}
+
+.ddd {
+  text-transform: uppercase;
+}
+
+.link {
+  width: 244px;
+  height: 21px;
+  color: #ffffff;
+  font-family: "Nokia - Sans - S 60";
+  font-size: 26px;
+  margin-top: 5px;
+  font-style: normal;
+  letter-spacing: normal;
+  text-align: left;
+  text-transform: uppercase;
+  font-style: normal;
+  letter-spacing: 1.95px;
+  line-height: normal;
+}
+/*# sourceMappingURL=type.css.map */
